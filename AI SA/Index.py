@@ -8,8 +8,8 @@ from mlxtend.frequent_patterns import apriori, association_rules
 from sklearn.preprocessing import StandardScaler
 
 # Load the dataset
-file_path = "/workspaces/IDAI105-1000319--Samanyu/AI SA/Dataset/amazon.csv"
-df = pd.read_csv(file_path)
+url = "https://github.com/samanyu-h76/IDAI105-1000319--Samanyu/blob/main/AI%20SA/Dataset/amazon.csv"
+df = pd.read_csv(url)
 
 # Data Cleaning & Preprocessing
 # Convert price columns to numeric
