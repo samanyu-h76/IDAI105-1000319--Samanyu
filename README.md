@@ -1,8 +1,8 @@
 # Amazon Data Analysis - README
 
-## 📌 Project Title: **Amazon Customer Segmentation & Market Basket Analysis**
+##  Project Title: **Amazon Customer Segmentation & Market Basket Analysis**
 
-## 📖 Project Scope
+##  Project Scope
 This project focuses on analyzing Amazon's e-commerce data to:
 - Segment customers based on their buying behavior.
 - Identify relationships between frequently purchased products.
@@ -11,7 +11,7 @@ This project focuses on analyzing Amazon's e-commerce data to:
 
 ---
 
-## 🔍 **Key Preprocessing Steps**
+##  **Key Preprocessing Steps**
 1. **Data Cleaning & Formatting**
    - Converted prices and discount percentages to numeric values.
    - Removed missing values for accurate analysis.
@@ -23,7 +23,7 @@ This project focuses on analyzing Amazon's e-commerce data to:
 
 ---
 
-## 📊 **Key Findings & Insights**
+##  **Key Findings & Insights**
 1. **Customer Segmentation (K-Means Clustering)**
    - Segmented customers based on product pricing, ratings, and purchase behavior.
    - Found distinct customer groups: Budget buyers, Premium buyers, and Discount hunters.
@@ -36,7 +36,7 @@ This project focuses on analyzing Amazon's e-commerce data to:
 
 ---
 
-## 🚀 **Streamlit Deployment & Functionality**
+##  **Streamlit Deployment & Functionality**
 - The project is **deployed on Streamlit** for interactive exploration.
 - Users can:
   - **View visualizations** (histograms, scatter plots, heatmaps).
