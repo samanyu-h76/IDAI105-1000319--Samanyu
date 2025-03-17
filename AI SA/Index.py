@@ -9,7 +9,7 @@ from sklearn.preprocessing import StandardScaler
 
 # Load the dataset
 url = "amazon.csv"
-df = pd.read_csv(url, error_bad_lines=False, warn_bad_lines=True, encoding="utf-8")
+df = pd.read_csv(file_path)
 
 # Data Cleaning & Preprocessing
 # Convert price columns to numeric
