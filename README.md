@@ -1,5 +1,10 @@
 # Amazon Data Analysis - README
 
+# Project by: Samanyu H(1000319)
+# CRS- AI
+# Course- Data Mining
+# School- Birla Open Minds International School
+
 ##  Project Title: **Amazon Customer Segmentation & Market Basket Analysis**
 
 ##  Project Scope
