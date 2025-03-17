@@ -39,12 +39,11 @@ This project focuses on analyzing Amazon's e-commerce data to:
 ## 🚀 **Streamlit Deployment & Functionality**
 - The project is **deployed on Streamlit** for interactive exploration.
 - Users can:
-  - **Upload a dataset** (if not using the default one).
   - **View visualizations** (histograms, scatter plots, heatmaps).
   - **Interact with clustering results** using an intuitive dashboard.
   - **See association rule mining results** for product recommendations.
 
-🔗 **Live Streamlit App Link**: [Your Streamlit URL here]
+🔗 **Live Streamlit App Link**: https://idai105-1000319--samanyu-3nnq22ertrcga9cezprbda.streamlit.app/
 
 ---
 
@@ -54,8 +53,7 @@ This project focuses on analyzing Amazon's e-commerce data to:
  ┣ 📜 Index.py  # Main Streamlit App
  ┣ 📜 amazon.csv  # Dataset (If using local hosting)
  ┣ 📜 requirements.txt  # Dependencies
- ┣ 📜 README.md  # Project Documentation
- ┗ 📂 visuals/  # Contains generated graphs and images
+ ┗ 📜 README.md  # Project Documentation
 ```
 
 ---
@@ -67,6 +65,6 @@ This project focuses on analyzing Amazon's e-commerce data to:
 
 ---
 
-🔹 **Author**: Your Name  
-🔹 **Contact**: Your Email  
+🔹 **Author**: Samanyu H
+🔹 **Contact**: samanyu100h@gmail.com
 🔹 **Date**: March 2025
