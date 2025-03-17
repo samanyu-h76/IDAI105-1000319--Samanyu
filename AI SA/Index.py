@@ -8,7 +8,7 @@ from mlxtend.frequent_patterns import apriori, association_rules
 from sklearn.preprocessing import StandardScaler
 
 # Load the dataset
-url = "AI SA/amazon.csv"
+file_path = "AI SA/amazon.csv"
 df = pd.read_csv(file_path)
 
 # Data Cleaning & Preprocessing
